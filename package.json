@@ -4,10 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/index.html"
+    "start": "parcel src/index.html"
   },
   "keywords": [],
-  "author": "",
+  "author": "hontas",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.2.2",
